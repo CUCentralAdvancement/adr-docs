@@ -23,3 +23,7 @@ Some ADRs will impact all development processes and teams and will need more coo
 **Which other ADRs does this proposal involve?**
 
 Please list all of the other ADRs this proposal relates to.
+
+**List where documentation needs to change if the ADR is accepted**
+
+Surely some project documentation will need to change with most ADR changes.
