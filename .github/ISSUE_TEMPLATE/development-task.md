@@ -1,37 +1,25 @@
 ---
-name: Development Task
-about: Development work not related to feature stories.
+name: Decision Record
+about: Proposals for decision record creation.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-Please describe your development task using the following prompts. Erase this message and any 
+Please describe your architectural change proposal using the following prompts. Erase this message and any 
 unused optional prompts.
 
 ## Required
 
-**What area of the codebase does this involve?**
+**Which project is this ADR for?**
 
-Please list all of the areas that this touches...need list to show.
+Please list and link to the project repository.
 
-**Will this impact CI/CD procedures?**
+**Does this ADR have global scope?**
 
-If you are working on automated testing or Heroku infrastructure/services, then please detail
-any impacts here.
+Some ADRs will impact all development processes and teams and will need more coordination to implement.
 
-**Relate To Security?**
+**Which other ADRs does this proposal involve?**
 
-Does this issue involve user authentication, sensitive data, etc? If so, put the "security" label on
-this issue and detail how the code change will impact.
-
-**Acceptance Criteria**
-
-- [ ] Added tests...
-- [ ] Added documentation...
-- [ ] Pull request created...
-
-## Optional
-
-...
+Please list all of the other ADRs this proposal relates to.
