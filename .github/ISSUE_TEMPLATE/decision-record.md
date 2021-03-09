@@ -12,13 +12,14 @@ unused optional prompts.
 
 ## Required
 
-**Which project is this ADR for?**
+**Which project area is this ADR for?**
 
-Please list and link to the project repository.
+Please list the main project area this relates to...need to come up with list.
 
-**Does this ADR have global scope?**
-
-Some ADRs will impact all development processes and teams and will need more coordination to implement.
+- frontend applications
+- backend applications
+- devops
+- system design
 
 **Which other ADRs does this proposal involve?**
 
