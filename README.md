@@ -37,6 +37,4 @@ The idea for creating this repo came from the 2021 BYU UAPI conference with part
 This is obviously a work in progress, but here are some links for background orientation:
 
 - ADR main GitHub repo and readme with links - https://adr.github.io/
-- C4 model of writing context diagrams - https://c4model.com/
-- Docz project used to render these ADRs - https://www.docz.site/docs/introduction
-- Easy diagram tool to use with C4 shapes - https://app.diagrams.net/
+- ...
