@@ -9,9 +9,16 @@ In each ADR file, write these sections:
 
 ## Status
 
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.? List
+all past and current ADRs that this proposal relates to.
 
-## Context
+## Prior Art
+
+No ideas come out of thin air anymore. Please list other sources where you are drawing your
+ideas from. Often times, these texts can be used to explain the decision context in more detail
+so that the ADRs can remain succinct.
+
+## Current Context
 
 What is the issue that we're seeing that is motivating this decision or change?
 
