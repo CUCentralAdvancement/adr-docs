@@ -16,7 +16,8 @@ across languages and frameworks, utility-first frameworks are on the rise. Tailw
 developers recommended using Tailwind.
 
 The documentation has been updated in the following places:
-- 
+
+- Brief instructions on how to install and use Tailwind: https://github.com/CUCentralAdvancement/github-docs/blob/main/docs/frontend/tailwind.md
 
 ## Prior Art
 
