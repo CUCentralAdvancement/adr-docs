@@ -29,3 +29,9 @@ What is the change that we're proposing and/or doing?
 ## Consequences
 
 What becomes easier or more difficult to do because of this change?
+
+## Detailed Explanation
+
+If you have more words that don't fit above or in some kind of related documentation, you
+should put them here. An example: a presentation/meeting notes that were crucial in making a
+decision.
