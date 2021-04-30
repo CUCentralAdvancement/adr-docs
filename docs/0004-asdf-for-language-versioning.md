@@ -20,24 +20,40 @@ for local development and language versioning.
 
 ## Prior Art
 
-No ideas come out of thin air anymore. Please list other sources where you are drawing your
-ideas from. Often times, these texts can be used to explain the decision context in more detail
-so that the ADRs can remain succinct.
+The internet led me to `asdf`, but I'll list the main docs site and a blog post:
+
+- `asdf` docs site: https://asdf-vm.com/#/core-manage-asdf
+- blog post about `asdf` vs. other version managers: https://dev.to/0xdonut/manage-your-runtime-environments-using-asdf-and-not-nvm-or-rvm-etc-2c7c
 
 ## Current Context
 
-What is the issue that we're seeing that is motivating this decision or change?
+The genesis of this ADR proposal came from a Heroku deployment log. It said to upgrade
+the version of Ruby being used in an app, and that began a search on using `rvm` a
+version manager for the Ruby language. 
+
+Naturally, `asdf` also showed up in the search results since people were using a version
+manager per language instead of one versioning tool that worked across languages. That
+concept made a lot of sense and hence an ADR was born.
+
+Docker containers are also an option for version management, but MacOS file syncing
+previously had an issue that caused noticable slowdowns while developing locally.
+Docker can still be used for Heroku add-on services, but until the file syncing
+issues are resolved, I think using `asdf` is a more productive solution. 
 
 ## Decision
 
-What is the change that we're proposing and/or doing?
+We should use `asdf` for language version management locally.
 
 ## Consequences
 
-What becomes easier or more difficult to do because of this change?
+An alternative solution to language versioning could be to use [Docker and the Heroku 
+Container Registry](https://devcenter.heroku.com/articles/container-registry-and-runtime).
 
-## Detailed Explanation
+You can use one of their "stacks" to mimic the Heroku dyno environment on production,
+but there would be more time needed to assess supporting doing local development
+and production deploys using this method. 
 
-If you have more words that don't fit above or in some kind of related documentation, you
-should put them here. An example: a presentation/meeting notes that were crucial in making a
-decision.
+Based on this decision, DE documentation has been updated at: https://github.com/CUCentralAdvancement/heroku-docs#language-version-manager
+
+Ideally, all project repositories will have documentation on language version management
+within the repository. 
