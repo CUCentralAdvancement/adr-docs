@@ -9,6 +9,10 @@ of DDD can come at a high cost. Therefore, it is best used in areas of high comp
 applications DE needs to develop complex and novel enough to warrant full DDD treatment. If not
 full treatment, then what parts of DDD should be used.
 
+## Sponsors
+
+- Alex Finnarn - DE Front-end Developer - alexander.finnarn@cu.edu
+
 ## Status
 
 This record is under review for acceptance. The DE (Digital Engagement) team has not used a 
