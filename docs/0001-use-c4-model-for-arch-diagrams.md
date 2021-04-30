@@ -7,6 +7,10 @@ https://c4model.com/
 > maps of your code, at various levels of detail, in the same way you would use something like Google Maps to zoom in 
 > and out of an area you are interested in.
 
+## Sponsors
+
+- Alex Finnarn - DE Front-end Developer - alexander.finnarn@cu.edu
+
 ## Status
 
 This idea is in the proposal stage. Previously, diagrams were made ad hoc using various diagraming tools and shapes

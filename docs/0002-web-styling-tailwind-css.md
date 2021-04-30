@@ -9,6 +9,10 @@ the document as an example.
 
 However, many of these utility-first CSS frameworks use the same syntax...
 
+## Sponsors
+
+- Alex Finnarn - DE Front-end Developer - alexander.finnarn@cu.edu
+
 ## Status
 
 This methodology has been accepted and used in all the Digital Engagement web projects on Heroku. Furthermore, while exploring projects
