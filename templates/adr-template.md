@@ -7,6 +7,12 @@ In each ADR file, write these sections:
 
 # Title
 
+## Sponsors
+
+While someone could look at the Git history to get a good idea of authorship, it is better
+to list sponsors at the top to orient the readers and let them know who to contact for
+proposal changes or suggestions.
+
 ## Status
 
 What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.? List
