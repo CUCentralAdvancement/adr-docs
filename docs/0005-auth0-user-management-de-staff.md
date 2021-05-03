@@ -53,6 +53,8 @@ replacing the POST to Auth0 with a POST to Ping when a user clicks "Log In".
 
 ## Detailed Explanation
 
-For more information, you should read the user management docs at: 
+For more information, you should read the user management docs at:
+- https://github.com/CUCentralAdvancement/heroku-docs/blob/master/docs/platform/auth0.md
+- https://github.com/CUCentralAdvancement/github-docs/blob/main/docs/backend/authentication.md
 
 
