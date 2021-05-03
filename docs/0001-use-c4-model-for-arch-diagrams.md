@@ -13,7 +13,7 @@ https://c4model.com/
 
 ## Status
 
-This idea is in the proposal stage. Previously, diagrams were made ad hoc using various diagraming tools and shapes
+- **Proposed** - This idea is in the proposal stage. Previously, diagrams were made ad hoc using various diagraming tools and shapes
 to denote applications and the links between them. 
 
 ## Context

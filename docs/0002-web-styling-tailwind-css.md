@@ -15,7 +15,7 @@ However, many of these utility-first CSS frameworks use the same syntax...
 
 ## Status
 
-This methodology has been accepted and used in all the Digital Engagement web projects on Heroku. Furthermore, while exploring projects
+- **Accepted** - This methodology has been accepted and used in all the Digital Engagement web projects on Heroku. Furthermore, while exploring projects
 across languages and frameworks, utility-first frameworks are on the rise. Tailwind CSS is quite popular and that's the main reason DE
 developers recommended using Tailwind.
 

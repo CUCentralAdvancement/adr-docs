@@ -15,7 +15,7 @@ been using it.
 
 ## Status
 
-Using `asdf` is only proposed at this point in time. Developers use different methods
+- **Proposed** - Using `asdf` is only proposed at this point in time. Developers use different methods
 for local development and language versioning.
 
 ## Prior Art

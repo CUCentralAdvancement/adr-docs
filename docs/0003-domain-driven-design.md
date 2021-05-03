@@ -15,7 +15,7 @@ full treatment, then what parts of DDD should be used.
 
 ## Status
 
-This record is under review for acceptance. The DE (Digital Engagement) team has not used a 
+- **Under Review** - This record is under review for acceptance. The DE (Digital Engagement) team has not used a 
 specific development design philosophy in the past so each new idea needs some time to gauge
 effectiveness.
 
