@@ -8,6 +8,10 @@ In each ADR file, write these sections:
 
 # Title
 
+Add a brief introductory paragraph or two about the ADR, they why, and how it came to be. It 
+might make sense for you to complete this part after writing the other sections since they will 
+help to refine your summary section.
+
 ## Sponsors
 
 While someone could look at the Git history to get a good idea of authorship, it is better to list
